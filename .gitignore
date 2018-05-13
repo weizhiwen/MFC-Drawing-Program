@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# MFC files
+*.ilk
+*.log
+*.tlog
+*.ipch
+*.iobj
+*.ipdb
+*.pdb
