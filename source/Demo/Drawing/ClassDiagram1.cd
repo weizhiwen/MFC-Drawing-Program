@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drawing.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttributeDialog" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAGkAkACAAQUASBIAAEEAAAAAAAAACAAEIAACECg=</HashCode>
+      <FileName>AttributeDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDrawingApp" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAABQAAAAAQCAAARAAACAEA=</HashCode>
+      <FileName>Drawing.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDrawingDoc">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAgAAACAAAgAAgASghAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrawingDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDrawingView" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAGABAgAAEgAAAAAAAAAgIAAIYAQA=</HashCode>
+      <FileName>DrawingView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAACAAAiAAAoCEAAgAgAABQAAAAAhA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WCircle" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAQAAAEAAgAAAAIAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WCircle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WEllipse" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAwAAAAAAAAAAASBAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>WEllipse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WRectangle" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAABAEAAgAAAAAAAEAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WRectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WShape" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASFgAgAAAAgAAACCACBBAAAAAQAAAAgAAAA=</HashCode>
+      <FileName>WShape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WSquare" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAAAEAAgAAAAAAAEAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WSquare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WTriangle" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAgAAAAAAAABAACAAAAQAAAAAAAABAAA=</HashCode>
+      <FileName>WTriangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WText" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAEAAgAAAAABAAAAACAAAAAgAAAQAAAAAAA=</HashCode>
+      <FileName>WText.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ElementType" Collapsed="true">
+    <Position X="14.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAIAAAAAACQAAAAAgAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>WShape.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
